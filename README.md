@@ -1,4 +1,4 @@
-# <b>## 👋 Hi! I am Nicolas Maso, enthusiast about programming</b>
+# <b> 👋 Hi! I am Nicolas Maso, enthusiast about programming</b>
 <br>
 
 <div align="center">
