@@ -1,8 +1,10 @@
+# <b>## 👋 Hi! I am Nicolas Maso, enthusiast about programming</b>
+<br>
 
 <div align="center">
   <a href="https://github.com/NicolasMaso">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasMaso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMaso&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMaso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMaso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div> 
@@ -10,9 +12,6 @@
   ![Snake animation](https://github.com/NicolasMaso/NicolasMaso/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
-# <b>## 👋 Hi! I am Nicolas Maso, enthusiast about programming</b>
-<br>
 
   ## <b>👨‍💻 About me</b> 
 I'm a full stack developer, currently completing my bachelor's degree in Computer Information Systems. I've been in contact with programming since 2018 and every day I enjoy working with it even more because of the incredible things that can be built and the challenges they provide us with.
