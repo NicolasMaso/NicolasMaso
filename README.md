@@ -14,9 +14,7 @@
 </div>
 
   ## <b>👨‍💻 About me</b> 
-I'm a full stack developer, currently completing my bachelor's degree in Computer Information Systems. I've been in contact with programming since 2018 and every day I enjoy working with it even more because of the incredible things that can be built and the challenges they provide us with.
-
-Currently specializing in MERN stack.
+I'm a back-end developer, currently completing my bachelor's degree in Computer Information Systems. I've been in contact with programming since 2018 and every day I enjoy working with it even more because of the incredible things that can be built and the challenges they provide us with.
 
 I always try to code in a clean and organized way.
 
@@ -67,55 +65,8 @@ I always try to code in a clean and organized way.
 </table>
 <br><br><br>
   
-  
-  ## <b>💻 Knowledge / Languages ​​and Tools</b>:
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![NodeJS](./src/nodejs.svg) &nbsp;
-  ![TS](./img/typescript.svg) &nbsp;
-  ![ReactJS](./src/reactjs.svg) &nbsp;
-  ![Redux](./img/redux.svg) &nbsp;
-  ![HTML](./src/html.svg) &nbsp;
-  ![CSS](./src/css.svg) &nbsp;
-  ![JS](./img/javascript.svg) &nbsp;
-  ![Git](./src/git.svg) &nbsp;
-  ![Github](./src/github.svg) &nbsp;
-  ![MySQL](./img/mysql.svg) &nbsp;
-  ![Yarn](./img/yarn.svg) &nbsp;
-  ![Npm](./img/npm.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;
-  ![Jira](./img/jira.svg) &nbsp;
-  
-</div>
 <br><br><br>
 
-
-## <b>✍️ I am studying:</b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  
-![Nestjs](./img/nestjs.svg) &nbsp;
-![MongoDB](./img/mongodb.svg) &nbsp;
-![Docker](./src/docker.svg) &nbsp;
-![Sass](./img/sass.svg) &nbsp;
-![Tailwind](./img/tailwind.svg) &nbsp;
-  
-</div>
-<br><br><br>
-
-
-## <b>🤔 I have interest: </b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-![Python](./img/python.svg) &nbsp;
-![Amazon](./img/amazon.svg) &nbsp;
-![Angular](./img/angular.svg) &nbsp;
-![Flutter](./img/flutter.svg) &nbsp;
-![VueJS](./src/vuejs.svg) &nbsp;
-![Figma](./img/figma.svg) &nbsp;
-
-
-</div>
 <br><br><br>
 
 
