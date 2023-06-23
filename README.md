@@ -24,51 +24,6 @@ I always try to code in a clean and organized way.
 </p></b>
 <br><br>
 
-## <b>🏫 Education</b>
-<table>
-  <thead>
-    <tr>
-      <th>Organization</th>
-      <th>Description</th>
-      <th>See more</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-
-
-![Alura](./img/alura.svg)
-      </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br/)</b><br>
-        Complete platform for continuous learning in programming.
-      </td>
-      <td>
-        <b>[Alura](https://www.alura.com.br/)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![UFSC](./img/ufsc.svg)
-      </td>
-      <td>
-        <b>[Degree](https://ufsc.br/)</b><br>
-        Federal University of Santa Catarina - Bachelor of Information Systems
-      </td>
-      <td>
-        <b>[UFSC](https://ufsc.br/)</b><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br><br><br>
-  
-<br><br><br>
-
-<br><br><br>
-
 
 ## <b>📞 Contact me</b>
 <div>
