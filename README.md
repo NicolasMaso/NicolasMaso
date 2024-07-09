@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Back-end Developer<br>- Design Patterns<br>- SOLID, DDD, TDD<br>- Clean Code / Clean Architecture<br>- Tests<br>- Swagger - OpenAPI<br>- Current stack - Typescript | Node.js | NestJS<br>- Bachelor's Degree in Information Systems (Universidade Federal de Santa Catarina)</p>
+<p align="left">🧑‍💻 Back-end Developer<br>🛠️ Design Patterns | SOLID, DDD, TDD<br>📚 Clean Code / Clean Architecture<br>🧪 Tests<br>📄 Swagger - OpenAPI<br>💻 Current stack - Typescript | Node.js | NestJS<br>🎓 Bachelor's Degree in Information Systems (Universidade Federal de Santa Catarina)</p>
 
 ###
 
@@ -36,6 +36,10 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
