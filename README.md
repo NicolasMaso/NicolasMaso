@@ -2,4 +2,4 @@
 
 ###
 
-<p align="left">🧑‍💻 Back-end Developer<br>🛠️ Design Patterns | SOLID, DDD, TDD<br>📚 Clean Code / Clean Architecture<br>🧪 Tests<br>📄 Swagger - OpenAPI<br>💻 Current stack - TypeScript | Node.js | NestJS | MongoDB<br>🎓 Bachelor's Degree in Information Systems (Universidade Federal de Santa Catarina)</p>
+<p align="left">🧑‍💻 Backend Developer<br>🛠️ Design Patterns | SOLID, DDD, TDD<br>📚 Clean Code / Clean Architecture<br>🧪 Tests<br>📄 Swagger - OpenAPI<br>💻 Current stack - TypeScript | Node.js | NestJS | MongoDB<br>🎓 Bachelor's Degree in Information Systems (Universidade Federal de Santa Catarina)</p>
